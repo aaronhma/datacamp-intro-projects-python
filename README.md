@@ -58,3 +58,4 @@ $ jupyter notebook
 7. Congratulations!
 
 ![Congratulations!](https://raw.githubusercontent.com/aaronhma/datacamp-intro-projects-python/master/114855250-congrats-congratulations-card-.jpg)
+[Image Credits](https://previews.123rf.com/images/alexgorka/alexgorka1812/alexgorka181200053/114855250-congrats-congratulations-card-.jpg)
