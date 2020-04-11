@@ -16,6 +16,7 @@
 
 ## Getting Started Guide
 1. Clone this repository.
+
 With HTTPS:
 ```bash
 $ git clone https://github.com/aaronhma/datacamp-intro-projects-python.git
