@@ -32,6 +32,7 @@ $ cd datacamp-intro-projects-python
 ```
 
 3. Install Jupyter Notebook and required dependencies.
+
 With CONDA:
 ```bash
 $ conda install -c conda-forge notebook # Install jupyter
@@ -55,3 +56,5 @@ $ jupyter notebook
 6. Once you're done, check out how I solved those exercises by clicking "Solutions.ipynb" in the Jupyter Notebook or by clicking [here]().
 
 7. Congratulations!
+
+![Congratulations!](https://raw.githubusercontent.com/aaronhma/datacamp-intro-projects-python/master/114855250-congrats-congratulations-card-.jpg)
